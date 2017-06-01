@@ -1,7 +1,7 @@
 ## Opis działania
 Zasadniczo wszystko co was interesuje znajduje się w pliku `flask_api.py`. Żeby odpalić serwer odpalacie skrypt `run_online.py`
 Jak checie tylko sobie poklikać żeby sprawdzić zasady to odpalacie `run_offline.py`
-
+asdasd
 Protokół łączenia się z serwerem i gry wygląda następująco:
 1. wysyłacie GET'a na `http://adres_serwera:5000/sync`
   * W odpowiedzi dostajecie jsona z:
